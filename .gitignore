@@ -2,8 +2,6 @@
 node_modules/
 
 # Environment variables
-.env
-.env.local
 
 # Logs
 logs
@@ -35,7 +33,6 @@ public/uploads/
 Thumbs.db
 
 # IDE
-.vscode/
 .idea/
 
 # Temporary files
@@ -51,3 +48,7 @@ docker-compose.override.yml
 # Misc
 *.pem
 *.key
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
